@@ -3,7 +3,7 @@
 """
 Created on Mon Nov 28 12:20:30 2022
 
-@author: stephenkullman
+@author: *
 """
 
 import numpy as np
@@ -11,7 +11,7 @@ import pandas as pd
 from pathlib import Path
 
 # Directory of this file
-this_dir = Path('/Users/stephenkullman/Desktop/All/Financials/CSV').resolve().parent
+this_dir = Path('/Users/*/Desktop/All/Financials/CSV').resolve().parent
 
 # Read in all Excel files from folder
 parts = []
